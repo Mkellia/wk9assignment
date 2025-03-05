@@ -31,7 +31,7 @@ This program sorts a **list of 20 names** in either:
 The user is prompted to enter either `asc` or `desc`, and the names are sorted using **Bubble Sort** before being displayed.
 
 ### 3. Memory Management (Storing Student Emails)
-**Filename:** `memory_management.c`
+**Filename:** `management.c`
 **Contributor:** Kellia Muzira
 
 This program dynamically stores the **email addresses** of **10 students** in an array using **malloc()**. Then, it demonstrates **shrinking memory** by reducing the array to **6 students** using **realloc()**. Finally, the program frees all allocated memory to avoid memory leaks.
